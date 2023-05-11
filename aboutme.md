@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Hongyue Wang
+subtitle: University of Jinan
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Hongyue Wang, you can call me **Hoyer**. I am a third year graduate student at University of Jinan, and my supervisor is Prof. Zhiquan Feng.
 
 - I rock a great mustache
 - I'm extremely loyal to my family
