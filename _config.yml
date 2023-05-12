@@ -21,10 +21,11 @@ author: Hongyue Wang
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Projects:
+    - Smart Glove: "https://beautifuljekyll.com"
+    - Virtual Reality Integration Platform: "https://www.markdowntutorial.com/"
+    - Secondary School Laboratory Examination System: "https://www.markdowntutorial.com/"
+  Publications: "https://deanattali.com"
 
 ################
 # --- Logo --- #
