@@ -1,15 +1,34 @@
----
-layout: page
-title: Publications
----
+### 2023
 
-My name is Hongyue Wang, you can call me **Hoyer**. I am a third year graduate student at University of Jinan, and my supervisor is Prof. Zhiquan Feng.
+##### *Journal:*
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- **Multimodal Information Perception and Understanding: Application of Smart Glove in Virtual-Reality Fusion Chemistry Experiment Platform**
 
-What else do you need?
+  **Hongyue Wang***, Zhiquan Feng*, Xin Meng
 
-### My story
+  Advanced Materials Technologies (JCR Q1)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+  [website](https://onlinelibrary.wiley.com/doi/abs/10.1002/admt.202200549)  [paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/admt.202200549)
+
+### 2022
+
+##### ***Journal:***
+
+- **MFA: A Smart Glove with Multimodal Intent Sensing Capability**
+
+  **Hongyue Wang***, Zhiquan Feng*, Jinglan Tian, Xue Fan
+
+  Computational Intelligence and Neuroscience (JCR Q2)
+
+  [website](https://www.hindawi.com/journals/cin/2022/3545850/)  [paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/admt.202200549)
+
+##### ***conference:***
+
+- **Research on the Structure and Key Algorithms of Smart Gloves Oriented to Middle School Experimental Scene Perception**
+
+  ***Hongyue Wang***, Zhiquan Feng*, Xin Meng
+
+  ChineseCSCW 2021: Computer Supported Cooperative Work and Social Computing
+
+  [website](https://link.springer.com/chapter/10.1007/978-981-19-4546-5_32)  [paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/admt.202200549)
+
