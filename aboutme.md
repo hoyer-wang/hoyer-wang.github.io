@@ -1,6 +1,6 @@
 ---
 layout: page
-####title: Hi, I'm Hongyue (Hoyer) Wang.####
+title: Hi, I'm Hongyue.
 ---
 
 My name is Hongyue Wang, you can call me **Hoyer**. I am a third year graduate student at University of Jinan, and my supervisor is Prof. Zhiquan Feng.
