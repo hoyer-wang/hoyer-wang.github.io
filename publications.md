@@ -24,7 +24,7 @@ title: Publications
 
   Computational Intelligence and Neuroscience
 
-  [website](https://www.hindawi.com/journals/cin/2022/3545850/)  <a href="/assets/img/MFA：A Smart Glove with Multimodal Intent Sensing Capability.pdf" >paper</a>
+  [website](https://www.hindawi.com/journals/cin/2022/3545850/)  <a href="assets/img/MFA：A Smart Glove with Multimodal Intent Sensing Capability.pdf" >paper</a>
 
 ##### ***conference:***
 
@@ -34,5 +34,5 @@ title: Publications
 
   ChineseCSCW 2021: Computer Supported Cooperative Work and Social Computing
 
-  [website](https://link.springer.com/chapter/10.1007/978-981-19-4546-5_32)  <a href="/assets/img/assets/img/Research on the Structure and Key Algorithms of Smart Gloves Oriented to Middle School Experimental Scene Perception.pdf" >paper</a>
+  [website](https://link.springer.com/chapter/10.1007/978-981-19-4546-5_32)  <a href="assets/img/Research on the Structure and Key Algorithms of Smart Gloves Oriented to Middle School Experimental Scene Perception.pdf" >paper</a>
 
