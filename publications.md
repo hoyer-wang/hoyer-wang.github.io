@@ -12,7 +12,7 @@ title: Publications
 
   Advanced Materials Technologies
 
-  [website](https://onlinelibrary.wiley.com/doi/abs/10.1002/admt.202200549)  [paper](assets/img/Multimodal Information Perception and Understanding：Application of Smart Glove in Virtual-Reality Fusion Chemistry Experiment Platform.pdf)
+  [website](https://onlinelibrary.wiley.com/doi/abs/10.1002/admt.202200549)  <a href="assets/img/Multimodal Information Perception and Understanding：Application of Smart Glove in Virtual-Reality Fusion Chemistry Experiment Platform.pdf" >paper</a>
 
 ### 2022
 
@@ -24,7 +24,7 @@ title: Publications
 
   Computational Intelligence and Neuroscience
 
-  [website](https://www.hindawi.com/journals/cin/2022/3545850/)  [paper](/assets/img/MFA：A Smart Glove with Multimodal Intent Sensing Capability.pdf)
+  [website](https://www.hindawi.com/journals/cin/2022/3545850/)  <a href="/assets/img/MFA：A Smart Glove with Multimodal Intent Sensing Capability.pdf" >paper</a>
 
 ##### ***conference:***
 
@@ -34,5 +34,5 @@ title: Publications
 
   ChineseCSCW 2021: Computer Supported Cooperative Work and Social Computing
 
-  [website](https://link.springer.com/chapter/10.1007/978-981-19-4546-5_32)  [paper](assets/img/Research on the Structure and Key Algorithms of Smart Gloves Oriented to Middle School Experimental Scene Perception.pdf)
+  [website](https://link.springer.com/chapter/10.1007/978-981-19-4546-5_32)  <a href="/assets/img/assets/img/Research on the Structure and Key Algorithms of Smart Gloves Oriented to Middle School Experimental Scene Perception.pdf" >paper</a>
 
