@@ -4,9 +4,8 @@ title: Publications
 ---
 ### 2023
 
-##### *Journal:*
 
-- **Multimodal Information Perception and Understanding: Application of Smart Glove in Virtual-Reality Fusion Chemistry Experiment Platform**
+- [Journal] **Multimodal Information Perception and Understanding: Application of Smart Glove in Virtual-Reality Fusion Chemistry Experiment Platform**
 
   ***Hongyue Wang***, Zhiquan Feng*, Xin Meng
 
@@ -16,9 +15,8 @@ title: Publications
 
 ### 2022
 
-##### ***Journal:***
 
-- **MFA: A Smart Glove with Multimodal Intent Sensing Capability**
+- [Journal] **MFA: A Smart Glove with Multimodal Intent Sensing Capability**
 
   ***Hongyue Wang***, Zhiquan Feng*, Jinglan Tian, Xue Fan
 
@@ -26,9 +24,8 @@ title: Publications
 
   [website](https://www.hindawi.com/journals/cin/2022/3545850/)    <a href="/assets/img/MFA：A Smart Glove with Multimodal Intent Sensing Capability.pdf" >paper</a>
 
-##### ***conference:***
 
-- **Research on the Structure and Key Algorithms of Smart Gloves Oriented to Middle School Experimental Scene Perception**
+- [Conference] **Research on the Structure and Key Algorithms of Smart Gloves Oriented to Middle School Experimental Scene Perception**
 
   ***Hongyue Wang***, Zhiquan Feng*, Xin Meng
 
