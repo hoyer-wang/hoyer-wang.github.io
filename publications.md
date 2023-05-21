@@ -4,9 +4,9 @@
 
 - **Multimodal Information Perception and Understanding: Application of Smart Glove in Virtual-Reality Fusion Chemistry Experiment Platform**
 
-  **Hongyue Wang***, Zhiquan Feng*, Xin Meng
+  ***Hongyue Wang***, Zhiquan Feng*, Xin Meng
 
-  Advanced Materials Technologies (JCR Q1)
+  Advanced Materials Technologies
 
   [website](https://onlinelibrary.wiley.com/doi/abs/10.1002/admt.202200549)  [paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/admt.202200549)
 
@@ -16,9 +16,9 @@
 
 - **MFA: A Smart Glove with Multimodal Intent Sensing Capability**
 
-  **Hongyue Wang***, Zhiquan Feng*, Jinglan Tian, Xue Fan
+  ***Hongyue Wang***, Zhiquan Feng*, Jinglan Tian, Xue Fan
 
-  Computational Intelligence and Neuroscience (JCR Q2)
+  Computational Intelligence and Neuroscience
 
   [website](https://www.hindawi.com/journals/cin/2022/3545850/)  [paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/admt.202200549)
 
