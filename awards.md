@@ -1,9 +1,14 @@
+---
+layout: page
+title: Awards
+---
+
 ### 2023
 
 - [2023.04] **Outstanding Graduate of Shandong Province**
 - [2023.04] Outstanding Graduate of University of Jinan
 
- 
+
 
 ### 2022
 
@@ -12,7 +17,7 @@
 - [2022.11] The Third Prize for the 5th China Competition on Virtual Reality (CCVR 2022)
 - [2022.07] The First Prize for the 17th Postgraduate Electronic Design Competition (North China Division)
 
-##### 
+
 
 ### 2021
 
