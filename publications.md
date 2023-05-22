@@ -27,7 +27,7 @@ title: Publications
 
 - **[Conference]** Research on the Structure and Key Algorithms of Smart Gloves Oriented to Middle School Experimental Scene Perception
 
-  ***Hongyue Wang***, Zhiquan Feng*, Xin Meng
+  ***Hongyue Wang***, Xin Meng, Zhiquan Feng*
 
   ChineseCSCW 2021: Computer Supported Cooperative Work and Social Computing
 
