@@ -15,6 +15,7 @@ title: Awards
 - [2022.12] **National Scholarship for Chinese University Students**
 - [2022.11] The First Prize Scholarship of University of Jinan
 - [2022.11] The Third Prize for the 5th China Competition on Virtual Reality (CCVR 2022)
+- [2022.08] Authorize computer software copyright
 - [2022.07] The First Prize for the 17th Postgraduate Electronic Design Competition (North China Division)
 
 
