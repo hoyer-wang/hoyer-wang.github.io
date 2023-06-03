@@ -5,7 +5,7 @@ title: Awards
 
 ### 2023
 
-- [2023.04] **Outstanding Graduate of Shandong Province**
+- [2023.05] **Monash University-China Scholarship Council (CSC) Joint Scholarship**
 - [2023.04] Outstanding Graduate of University of Jinan
 
 
@@ -38,3 +38,4 @@ title: Awards
 ### 2018
 
 - [2018.11] The First Prize for the Shandong Software Design Competition
+- [2018.10] The Third Prize Scholarship of University of Jinan
