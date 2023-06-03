@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hongyue Wang
+subtitle: University of Jinan
 ---
 
 Hi, everyone! My name is Hongyue Wang, you can call me **Hoyer**. I am currently pursuing a Master's degree at University of Jinan under the guidance of Professor Zhiquan Feng. My research interests lie in the fascinating fields of human-computer interaction, virtual reality, and artificial intelligence. I have always been captivated by the endless possibilities that emerge when technology and human experiences converge.
