@@ -1,15 +1,12 @@
 ---
 layout: page
-title: Hi, I'm Hongyue.
+title: Hongyue Wang
 ---
 
-My name is Hongyue Wang, you can call me **Hoyer**. I am a third year graduate student at University of Jinan, and my supervisor is Prof. Zhiquan Feng.
+Hi, everyone! My name is Hongyue Wang, you can call me **Hoyer**. I am currently pursuing a Master's degree at University of Jinan under the guidance of Professor Zhiquan Feng. My research interests lie in the fascinating fields of human-computer interaction, virtual reality, and artificial intelligence. I have always been captivated by the endless possibilities that emerge when technology and human experiences converge.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Specifically, my Master's research focused on exploring smart glove and its key algorithms in the context of high school chemistry experiments through mixed reality and deep learning technology. I believe that by leveraging the power of technology, we can facilitate advances in the way students engage with scientific experiments, making the learning process more interactive and immersive. During my time at Jinan University, I actively engaged in research projects, collaborating with fellow researchers and students. These experiences have not only sharpened my technical skills but have also taught me the importance of effective teamwork and collaboration. I firmly believe that through collaboration and interdisciplinary approaches, we can create groundbreaking solutions to complex problems.
 
-What else do you need?
+At the same time, I am thrilled to share that in May 2023, I was honored to be awarded the Monash University-China Scholarship Council (CSC) Joint Scholarship. This prestigious scholarship opens up new horizons for me as I embark on my Ph.D. journey. I am eagerly looking forward to joining Monash University and working with Florian 'Floyd' Mueller and the Exertion Games Lab on interactive food.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Thank you for visiting my webpage and taking the time to learn more about me. If you have any questions or if you are interested in potential collaborations, please feel free to reach out. I am always open to new ideas and opportunities to connect with individuals who share my passion for pushing the boundaries of human-computer interaction. Together, let's create a future where technology transforms our life and empowers learners worldwide.
