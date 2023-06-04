@@ -9,7 +9,7 @@
 <img src="/assets/img/vrip04.png">
 
 <img src="/assets/img/vrip01.png">
-
+<img src="/assets/img/vrip02.png">
 
 <p style="text-align:justify">For the application scenario of virtual laboratory classroom, the structure of intelligent beaker device with the function of sensing user behavior is designed.</p>
 
@@ -22,6 +22,6 @@
 
 <img src="/assets/img/vrip06.png">
 
-3. <p style="text-align:justify">The binocular camera is fixed in the wrist portion of the smart glove, which not only allows for real-time information gathering about the experimental scene, but also addresses the issues with obscuration and poor long-distance object recognition accuracy. It is frequently brought on by the traditional virtual experiment practice of using cameras and KINECT devices. The smart glove's binocular camera and sensor group transfer sensing data and visual data to the computer through Bluetooth and USB, respectively. Figure 3 illustrates the hardware structure of this system.</p>
+<p style="text-align:justify">In this interactive environment, users can perform experimental operations through the virtual reality interface and receive timely feedback. Such an intelligent experimental equipment structure and platform can increase the interactivity and immersion of the experiment.</p>
 
-<img src="/assets/img/mrsg03.png">
+
