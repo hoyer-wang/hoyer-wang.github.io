@@ -9,7 +9,7 @@
 <img src="/assets/img/vrip04.png">
 
 <img src="/assets/img/vrip01.png">
-<img src="/assets/img/vrip02.png">
+<img src="/assets/img/vrip02.png" align="center">
 
 <p style="text-align:justify">For the application scenario of virtual laboratory classroom, the structure of intelligent beaker device with the function of sensing user behavior is designed.</p>
 
