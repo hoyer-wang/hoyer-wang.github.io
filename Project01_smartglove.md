@@ -7,5 +7,5 @@ subtitle: Smart Glove System in Mixed Reality Scenarios
 
 <img src="/assets/img/mrsg01.png">
 
-<img src="/assets/img/mrsg02.png">
+<img src="/assets/img/mrsg03.png">
 
