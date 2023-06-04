@@ -15,6 +15,7 @@
 
 1. **Smart large beaker** packs light sensors, touch sensors as well as a temperature change sensing chip, with different sensors used to detect different behaviors of the user.
 
+
 <img src="/assets/img/vrip05.png">
 
 
