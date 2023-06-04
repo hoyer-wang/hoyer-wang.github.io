@@ -22,9 +22,9 @@ author: Hongyue Wang
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - Smart Glove: "https://beautifuljekyll.com"
-    - Virtual Reality Integration Platform: "https://www.markdowntutorial.com/"
-    - Secondary School Laboratory Examination System: "https://www.markdowntutorial.com/"
+    - Smart Glove: "Project01_smartglove"
+    - Virtual Reality Integration Platform: "Project02_VRIP"
+    - Secondary School Laboratory Examination System: "Project03_ES"
   Publications: "publications"
   Awards: "awards"
 
