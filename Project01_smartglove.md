@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: post
 ---
 ### Smart Glove System in Mixed Reality Scenarios
 
