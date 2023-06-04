@@ -14,4 +14,18 @@ subtitle: University of Jinan
 <p style="text-align:justify">Thank you for visiting my webpage and taking the time to learn more about me. If you have any questions or if you are interested in potential collaborations, please feel free to reach out. I am always open to new ideas and opportunities to connect with individuals who share my passion for pushing the boundaries of human-computer interaction. Together, let's create a future where technology transforms our life and empowers learners worldwide.</p>
 
 
+<h3>Experiences</h3>
+
+
+
+- <p style="text-align:justify">Master of Computer Science and Technology, major in Human-Computer Interaction @ University of Jinan</p>
+
+  <p style="text-align:right">Sept. 2020 - June. 2023</p>
+
+- Bachelor of Computer Science and Technology @ University of Jinan
+
+  <p style="text-align:right">Sept. 2016 - June. 2020</p>
+
+
+
 
