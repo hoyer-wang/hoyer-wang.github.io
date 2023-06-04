@@ -24,7 +24,7 @@ navbar-links:
   Projects:
     - Smart Glove: "Project01_smartglove"
     - Virtual Reality Integration Platform: "Project02_VRIP"
-    - Secondary School Laboratory Examination System: "Project03_ES"
+    #- Secondary School Laboratory Examination System: "Project03_ES"
   Publications: "publications"
   Awards: "awards"
 
