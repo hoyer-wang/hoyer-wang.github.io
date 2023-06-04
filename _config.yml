@@ -23,8 +23,8 @@ navbar-links:
   About Me: "aboutme"
   Projects:
     - Smart Glove: "Project01_smartglove"
-    - Virtual Reality Integration Platform: "2020-02-26-flake-it-till-you-make-it"
-    - Secondary School Laboratory Examination System: "2020-02-28-test-markdown"
+    - Virtual Reality Integration Platform: "Project02_VRIP"
+    - Secondary School Laboratory Examination System: "Project03_ES"
   Publications: "publications"
   Awards: "awards"
 
