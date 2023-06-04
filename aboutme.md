@@ -18,11 +18,11 @@ subtitle: University of Jinan
 
 
 
-- <p style="text-align:justify">Master of Computer Science and Technology, major in Human-Computer Interaction @ University of Jinan</p>
+- <p style="text-align:justify">Master of Computer Science and Technology, major in Human-Computer Interaction @ University of Jinan, Shandong, China</p>
 
   <p style="text-align:right">Sept. 2020 - June. 2023</p>
 
-- Bachelor of Computer Science and Technology @ University of Jinan
+- Bachelor of Computer Science and Technology @ University of Jinan, Shandong, China
 
   <p style="text-align:right">Sept. 2016 - June. 2020</p>
 
