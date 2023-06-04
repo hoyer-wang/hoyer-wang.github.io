@@ -4,7 +4,7 @@
 
 <img src="/assets/img/vrip03.png">
 
-<p style="text-align:justify"><b>The intelligent sensing capability of the experiment platform</b> can detect the user's action of picking up and putting back the chemical experiment equipment, as well as the detection of the experiment instrument category.</p>
+<p style="text-align:justify">The intelligent sensing capability of <b>the experiment platform</b> can detect the user's action of picking up and putting back the chemical experiment equipment, as well as the detection of the experiment instrument category.</p>
 
 <img src="/assets/img/vrip04.png">
 
@@ -20,7 +20,7 @@
 
 2. **Smart Small Beaker** has a built-in attitude sensor (located on the inside of the small beaker to detect the direction and speed of the beaker's pour) and an infrared sensor (to detect the distance between the small beaker and the large beaker).
 
-
+<img src="/assets/img/vrip06.png">
 
 3. <p style="text-align:justify">The binocular camera is fixed in the wrist portion of the smart glove, which not only allows for real-time information gathering about the experimental scene, but also addresses the issues with obscuration and poor long-distance object recognition accuracy. It is frequently brought on by the traditional virtual experiment practice of using cameras and KINECT devices. The smart glove's binocular camera and sensor group transfer sensing data and visual data to the computer through Bluetooth and USB, respectively. Figure 3 illustrates the hardware structure of this system.</p>
 
