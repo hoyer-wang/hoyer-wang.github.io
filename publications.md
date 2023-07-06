@@ -4,6 +4,13 @@ title: Publications
 ---
 ### 2023
 
+- **[Journal]** MRLab: Virtual Reality Fusion Smart Laboratory Based on Multimodal Fusion
+
+  ***Hongyue Wang***, Zhiquan Feng*, Xiaohui Yang, Liran Zhou, Jinglan Tian, Qingbei Guo
+
+  International Journal of Human-Computer Interaction
+
+  [website](https://www.tandfonline.com/eprint/FUCRITKCPECSMWQDR7JV/full?target=10.1080/10447318.2023.2227823)    <a href="/assets/img/MRLab Virtual Reality Fusion Smart Laboratory Based on Multimodal Fusion.pdf" >paper</a>
 
 - **[Journal]** Multimodal Information Perception and Understanding: Application of Smart Glove in Virtual-Reality Fusion Chemistry Experiment Platform
 
