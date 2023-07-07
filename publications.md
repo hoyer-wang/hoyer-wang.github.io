@@ -8,7 +8,7 @@ title: Publications
 
   ***Hongyue Wang***, Zhiquan Feng*, Xiaohui Yang, Liran Zhou, Jinglan Tian, Qingbei Guo
 
-  International Journal of Human-Computer Interaction
+  International Journal of Human-Computer Interaction **(JCR Q1 / SCI 3 / CCF B)**
 
   [website](https://www.tandfonline.com/eprint/FUCRITKCPECSMWQDR7JV/full?target=10.1080/10447318.2023.2227823)    <a href="/assets/img/MRLab Virtual Reality Fusion Smart Laboratory Based on Multimodal Fusion.pdf" >paper</a>
 
@@ -16,7 +16,7 @@ title: Publications
 
   ***Hongyue Wang***, Zhiquan Feng*, Xin Meng
 
-  Advanced Materials Technologies
+  Advanced Materials Technologies **(JCR Q1 / SCI 2)**
 
   [website](https://onlinelibrary.wiley.com/doi/abs/10.1002/admt.202200549)    <a href="/assets/img/Multimodal Information Perception and Understanding：Application of Smart Glove in Virtual-Reality Fusion Chemistry Experiment Platform.pdf" >paper</a>
 
@@ -27,7 +27,7 @@ title: Publications
 
   ***Hongyue Wang***, Zhiquan Feng*, Jinglan Tian, Xue Fan
 
-  Computational Intelligence and Neuroscience
+  Computational Intelligence and Neuroscience **(JCR Q3)**
 
   [website](https://www.hindawi.com/journals/cin/2022/3545850/)    <a href="/assets/img/MFA：A Smart Glove with Multimodal Intent Sensing Capability.pdf" >paper</a>
 
