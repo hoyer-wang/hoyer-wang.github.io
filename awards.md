@@ -5,6 +5,7 @@ title: Awards
 
 ### 2023
 
+- [2023.06] **Outstanding Graduate of Shandong Province**
 - [2023.05] **Monash University-China Scholarship Council (CSC) Joint Scholarship**
 - [2023.04] Outstanding Graduate of University of Jinan
 
