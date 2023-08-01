@@ -10,7 +10,7 @@ title: Publications
 
   International Journal of Human-Computer Interaction **(JCR Q1 / SCI 3 / CCF B)**
 
-  [website](https://www.tandfonline.com/eprint/FUCRITKCPECSMWQDR7JV/full?target=10.1080/10447318.2023.2227823)    <a href="/assets/img/MRLab Virtual Reality Fusion Smart Laboratory Based on Multimodal Fusion.pdf" >paper</a>
+  [website](https://www.tandfonline.com/doi/abs/10.1080/10447318.2023.2227823)    <a href="/assets/img/MRLab Virtual Reality Fusion Smart Laboratory Based on Multimodal Fusion.pdf" >paper</a>
 
 - **[Journal]** Multimodal Information Perception and Understanding: Application of Smart Glove in Virtual-Reality Fusion Chemistry Experiment Platform
 
