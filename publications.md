@@ -4,6 +4,21 @@ title: Publications
 ---
 ### 2023
 
+- **[Journal]** Multimodal Intent Understanding and Interaction System for Elderly-Assisted Companionship
+
+  Ying Wang, Zhiquan Feng*, **Hongyue Wang**
+
+  CCF Transactions on Pervasive Computing and Interaction **(EI)**
+
+
+
+- **[Journal]** MIUIC: A Human-Computer Collaborative Multimodal Intention-Understanding Algorithm Incorporating Comfort Analysis
+
+  Liran Zhou, Zhiquan Feng*, **Hongyue Wang**, Qingbei Guo
+
+  International Journal of Human-Computer Interaction **(JCR Q1 / SCI 3 / CCF B)**
+
+
 - **[Journal]** MRLab: Virtual Reality Fusion Smart Laboratory Based on Multimodal Fusion
 
   ***Hongyue Wang***, Zhiquan Feng*, Xiaohui Yang, Liran Zhou, Jinglan Tian, Qingbei Guo
