@@ -6,7 +6,7 @@ title: Publications
 
 - **[Journal]** Multimodal Intent Understanding and Interaction System for Elderly-Assisted Companionship
 
-  Ying Wang, Zhiquan Feng*, **Hongyue Wang**
+  Ying Wang, Zhiquan Feng*, ***Hongyue Wang***
 
   CCF Transactions on Pervasive Computing and Interaction **(EI)**
 
@@ -14,7 +14,7 @@ title: Publications
 
 - **[Journal]** MIUIC: A Human-Computer Collaborative Multimodal Intention-Understanding Algorithm Incorporating Comfort Analysis
 
-  Liran Zhou, Zhiquan Feng*, **Hongyue Wang**, Qingbei Guo
+  Liran Zhou, Zhiquan Feng*, ***Hongyue Wang***, Qingbei Guo
 
   International Journal of Human-Computer Interaction **(JCR Q1 / SCI 3 / CCF B)**
 
