@@ -4,19 +4,21 @@ title: Hongyue Wang
 subtitle: Monash University
 ---
 
-<p style="text-align:justify">Greetings everyone! My name is Hongyue Wang, but you can call me <b>Hoyer</b>. I am currently pursuing a Master's degree at the University of Jinan, under the guidance of Prof. Zhiquan Feng. My research interests mainly revolve around the captivating fields of human-computer interaction, virtual reality, and artificial intelligence. The convergence of technology and human experiences has always fascinated me due to the boundless possibilities it presents.</p>
+<p style="text-align:justify">
+  Hi, I am a Ph.D. candidate in <a href="https://exertiongameslab.org/">Exersion games Lab</a> directed by <a href="https://www.florianfloydmueller.com/">Prof. Florian 'Floyd' Mueller</a> working on Human-Food Interaction and Extended Reality (Secondary advisor: <a href="https://nathansemertzidis.com/">Dr. Nathan Semertzidis</a>) at Monash University, Australia. Previously, I worked on Human-Computer Interaction, Virtual Reality, Deep Learning and got my Bachelor's and Master's degree in Compuer Science and Technology under Prof. Zhiquan Feng from the University of Jinan, China.
+</p>
 
-<p style="text-align:justify">I am also excited to announce that in May 2023, I was honored to receive the Monash University-China Scholarship Council (CSC) Joint Scholarship. This highly esteemed scholarship has opened up exciting new horizons for me as I embark on my Ph.D. journey. I am eagerly looking forward to joining Monash University and collaborating with Prof. Florian 'Floyd' Mueller and the Exertion Games Lab on exploring interactive food.</p>
 
 <h3>Experiences</h3>
 
-- <p style="text-align:justify">Master of Computer Science and Technology, major in Human-Computer Interaction @ University of Jinan, Shandong, China</p>
-
+<ul>
+<li><p style="text-align:justify">Ph.D. Candidate, major in Human-Food Interaction and Extended Reality @ Monash University, Melbourne, Australia</p></li>
+  <p style="text-align:right">Sept. 2023 - Present</p>
+<li><p style="text-align:justify">Master of Computer Science and Technology, major in Human-Computer Interaction @ University of Jinan, Shandong, China</p></li>
   <p style="text-align:right">Sept. 2020 - June. 2023</p>
-
-- Bachelor of Computer Science and Technology @ University of Jinan, Shandong, China
-
-  <p style="text-align:right">Sept. 2016 - June. 2020</p>
+<li>Bachelor of Computer Science and Technology @ University of Jinan, Shandong, China</li>
+   <p style="text-align:right">Sept. 2016 - June. 2020</p>
+</ul>
 
 
 
