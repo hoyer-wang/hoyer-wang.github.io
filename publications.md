@@ -11,10 +11,10 @@ title: Publications
 <tr>
 
 <td><img src="/assets/img/up.png" width="250"></td>
-<td markdown="span"><p style="text-align:justify">**Multimodal Intent Understanding and Interaction System for Elderly-Assisted Companionship**</p><br><br>Ying Wang, Zhiquan Feng, and **Hongyue Wang**<br>*CCF Transactions on Pervasive Computing and Interaction* 2023<br></td>
+<td markdown="span" style="text-align:justify">**Multimodal Intent Understanding and Interaction System for Elderly-Assisted Companionship**<br><br>Ying Wang, Zhiquan Feng, and **Hongyue Wang**<br>*CCF Transactions on Pervasive Computing and Interaction* 2023<br></td>
 </tr>
 <tr>
-<td><img src="/assets/img/up.png" width="250"></td><td markdown="span"><p style="text-align:justify">**MIUIC: A Human-Computer Collaborative Multimodal Intention-Understanding Algorithm Incorporating Comfort Analysis**</p><br><br>Liran Zhou, Zhiquan Feng, **Hongyue Wang**, and Qingbei Guo<br>*International Journal of Human-Computer Interaction* 2023<br></td>
+<td><img src="/assets/img/up.png" width="250"></td><td markdown="span" style="text-align:justify">**MIUIC: A Human-Computer Collaborative Multimodal Intention-Understanding Algorithm Incorporating Comfort Analysis**<br><br>Liran Zhou, Zhiquan Feng, **Hongyue Wang**, and Qingbei Guo<br>*International Journal of Human-Computer Interaction* 2023<br></td>
 </tr>
 <tr>
 <td><img src="/assets/img/2023_ijhci.png" width="250"></td><td markdown="span">**MRLab: Virtual Reality Fusion Smart Laboratory Based on Multimodal Fusion**<br><br>**Hongyue Wang**, Zhiquan Feng, Xiaohui Yang, Liran Zhou, Jinglan Tian, and Qingbei Guo<br>*International Journal of Human-Computer Interaction* 2023<br><a href="https://www.tandfonline.com/doi/abs/10.1080/10447318.2023.2227823" target="_blank">[website]</a><a href="/assets/pubs/MRLab Virtual Reality Fusion Smart Laboratory Based on Multimodal Fusion.pdf" target="_blank">[paper]</a></td>
