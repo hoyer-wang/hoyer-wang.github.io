@@ -26,7 +26,7 @@
 
 
 <br>
-*Acknowledgment:*<br>
-<div style="text-align:justify">Project Name: The Open Teaching Experiment Environment of Virtual Reality Integration with Multimodal Natural Interaction (*National Key R&D Program, China*)<br>Project Leader: Prof. Zhiquan Feng<br>Project Number: 2018YFB1004900</div>
+
+<div style="text-align:justify">*<h3>Acknowledgment:</h3>*<br>Project Name: The Open Teaching Experiment Environment of Virtual Reality Integration with Multimodal Natural Interaction (*National Key R&D Program, China*)<br>Project Leader: Prof. Zhiquan Feng<br>Project Number: 2018YFB1004900</div>
 
 
