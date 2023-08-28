@@ -10,11 +10,11 @@ title: Projects
 <tbody>
 <tr>
     <td><img src="/assets/img/vr.png" width="250"></td>
-<td markdown="span" style="text-align:justify">**Virtual Reality Fusion Experimental Platform, 2020-2022**<br><br>Acknowledgment：<br>Project Name: The Open Teaching Experiment Environment of Virtual Reality Integration with Multimodal Natural Interaction (*National Key R&D Program, China*)<br>Project Leader: Prof. Zhiquan Feng<br>Project Number: 2018YFB1004900<br>Category: Research<a href="https://youtu.be/FzTpHuyoTN0" target="_blank">[video]</a></td>
+<td markdown="span" style="text-align:justify">**Virtual Reality Fusion Experimental Platform, 2020-2022**<br><br>Acknowledgment：<br>Project Name: The Open Teaching Experiment Environment of Virtual Reality Integration with Multimodal Natural Interaction (*National Key R&D Program, China*)<br>Project Leader: Prof. Zhiquan Feng<br>Project Number: 2018YFB1004900<br>Category: Research<br><a href="https://youtu.be/FzTpHuyoTN0" target="_blank">[video]</a></td>
 </tr>
     <tr>
 <td><img src="/assets/img/mrsg01.png" width="250"></td>
-<td markdown="span" style="text-align:justify">**Smart Glove, 2020-2023**<br><br>Acknowledgment：<br>Project Name: The Open Teaching Experiment Environment of Virtual Reality Integration with Multimodal Natural Interaction (*National Key R&D Program, China*)<br>Project Leader: Prof. Zhiquan Feng<br>Project Number: 2018YFB1004900<br>Category: Research<a href="https://youtu.be/LPTW5788Hbc" target="_blank">[video]</a></td>
+<td markdown="span" style="text-align:justify">**Smart Glove, 2020-2023**<br><br>Acknowledgment：<br>Project Name: The Open Teaching Experiment Environment of Virtual Reality Integration with Multimodal Natural Interaction (*National Key R&D Program, China*)<br>Project Leader: Prof. Zhiquan Feng<br>Project Number: 2018YFB1004900<br>Category: Research<br><a href="https://youtu.be/LPTW5788Hbc" target="_blank">[video]</a></td>
 </tr>
   <tr>
 <td><img src="/assets/img/up.png" width="250"></td>
