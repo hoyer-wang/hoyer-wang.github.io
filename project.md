@@ -11,7 +11,7 @@ title: Projects
 <tbody>
 <tr>
     <td><img src="/assets/img/vr.png" width="250"></td>
-<td markdown="span" style="text-align:justify">**<a href="Project02_VRIP.md">Virtual Reality Fusion Experimental Platform</a>**<br><br>Time: 2020-2022<br>Category: Research</td>
+<td markdown="span" style="text-align:justify">**<a href="/Project02_VRIP">Virtual Reality Fusion Experimental Platform</a>**<br><br>Time: 2020-2022<br>Category: Research</td>
 </tr>
     <tr>
 <td><img src="/assets/img/mrsg01.png" width="250"></td>
