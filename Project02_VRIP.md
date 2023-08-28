@@ -25,3 +25,7 @@
 <p style="text-align:justify">In this interactive environment, users can perform experimental operations through the virtual reality interface and receive timely feedback. Such an intelligent experimental equipment structure and platform can increase the interactivity and immersion of the experiment.</p>
 
 
+Acknowledgment:<br>
+<p style="text-align:justify">Project Name: The Open Teaching Experiment Environment of Virtual Reality Integration with Multimodal Natural Interaction (*National Key R&D Program, China*)</p><br>
+Project Leader: Prof. Zhiquan Feng<br>
+Project Number: 2018YFB1004900
