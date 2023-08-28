@@ -15,7 +15,7 @@ title: Projects
 </tr>
     <tr>
 <td><img src="/assets/img/mrsg01.png" width="250"></td>
-<td markdown="span" style="text-align:justify">**Smart Glove**<br><br>Time: 2020-2023<br>Category: Research</td>
+<td markdown="span" style="text-align:justify">**[Smart Glove in Mixed Reality Scenarios](/Project01_smartglove)**<br><br>Time: 2020-2023<br>Category: Research</td>
 </tr>
   <tr>
 <td><img src="/assets/img/up.png" width="250"></td>
