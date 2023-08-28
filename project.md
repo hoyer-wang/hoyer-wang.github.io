@@ -1,3 +1,8 @@
+---
+layout: page
+title: Projects
+---
+
 <table>
 <colgroup>
 <col width="30%" />
