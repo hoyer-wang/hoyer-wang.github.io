@@ -12,7 +12,7 @@ subtitle: Monash University
 <h3>Experiences</h3>
 
 <ul>
-<li><p style="text-align:justify">Ph.D. Candidate in Human Centred Computing @ Monash University, Melbourne, Australia</p></li>
+<li><p style="text-align:justify">Ph.D. Student in Human Centred Computing @ Monash University, Melbourne, Australia</p></li>
   <p style="text-align:right">Sept. 2023 - Present</p>
 <li><p style="text-align:justify">Master of Computer Science and Technology in Human-Computer Interaction @ University of Jinan, Shandong, China</p></li>
   <p style="text-align:right">Sept. 2020 - June. 2023</p>
