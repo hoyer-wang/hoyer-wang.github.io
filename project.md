@@ -19,7 +19,7 @@ title: Projects
 </tr>
   <tr>
 <td><img src="/assets/img/up.png" width="250"></td>
-<td markdown="span" style="text-align:justify">**A Middle School Experimental Operation Examination System Based on YOLOv5**<br><br>Time:2021-2023<br>Category: Research</td>
+<td markdown="span" style="text-align:justify">**Secondary School Laboratory Examination System Based on YOLOv5**<br><br>Time:2021-2023<br>Category: Research</td>
 </tr> 
 <tr>
 <td><img src="/assets/img/Royal Guards.png" width="250"></td>
