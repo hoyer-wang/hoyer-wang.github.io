@@ -17,7 +17,7 @@ title: Projects
 <td markdown="span" style="text-align:justify">**Smart Glove, 2020-2023**<br><br>Acknowledgment：<br>Project Name: The Open Teaching Experiment Environment of Virtual Reality Integration with Multimodal Natural Interaction (*National Key R&D Program, China*)<br>Project Leader: Prof. Zhiquan Feng<br>Project Number: 2018YFB1004900<br>Category: Research<br><a href="https://youtu.be/LPTW5788Hbc" target="_blank">[video]</a></td>
 </tr>
   <tr>
-<td><img src="/assets/img/up.png" width="250"></td>
+<td><img src="/assets/img/project03.png" width="250"></td>
 <td markdown="span" style="text-align:justify">**A Middle School Experimental Operation Examination System Based on YOLOv5, 2021-2023**<br><br>Acknowledgment：<br>Project Name: Research on Collaborative Protection Mechanism for Personal Safety of Elderly Care Robots (*Independent Training and Innovation Team Project, Jinan*)<br>Project Leader: Prof. Zhiquan Feng<br>Project Number: 2019GXRC013<br>Category: Research</td>
 </tr> 
 <tr>
