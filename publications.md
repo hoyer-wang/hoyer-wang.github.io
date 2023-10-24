@@ -10,7 +10,7 @@ title: Publications
 <tbody>
 <tr>
 
-<td><img src="/assets/img/up.png" width="250"></td>
+<td><img src="/assets/img/2023_robot.png" width="250"></td>
 <td markdown="span" style="text-align:justify">**Multimodal Intent Understanding and Interaction System for Elderly-Assisted Companionship**<br><br>Ying Wang, Zhiquan Feng\*, and **Hongyue Wang**<br>*CCF Transactions on Pervasive Computing and Interaction* 2023<br></td>
 </tr>
 <tr>
