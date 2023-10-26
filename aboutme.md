@@ -5,7 +5,7 @@ subtitle: Monash University
 ---
 
 <p style="text-align:justify">
-  Hi, I am a Ph.D. candidate in <a href="https://exertiongameslab.org/">Exersion games Lab</a> directed by <a href="https://www.florianfloydmueller.com/">Prof. Florian 'Floyd' Mueller</a> working on Human-Food Interaction (Associate Supervisor: <a href="https://samithaelvitigala.com/">Dr. Don Samitha Elvitigala</a>) at Monash University, Australia. I had HCI, XR, AI development experience and got my Bachelor's and Master's degree in Compuer Science and Technology under Prof. Zhiquan Feng from the University of Jinan, China.
+  Hi, I am a Ph.D. student in <a href="https://exertiongameslab.org/">Exersion games Lab</a> directed by <a href="https://www.florianfloydmueller.com/">Prof. Florian 'Floyd' Mueller</a> working on Human-Food Interaction (Associate Supervisor: <a href="https://samithaelvitigala.com/">Dr. Don Samitha Elvitigala</a>) at Monash University, Australia. I bring with me a rich background in HCI, XR, and AI development. My academic journey began at the University of Jinan, China, where I earned both my Bachelor's and Master's degrees in Computer Science and Technology, mentored by Prof. Zhiquan Feng.
 </p>
 
 
