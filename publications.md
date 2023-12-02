@@ -28,9 +28,6 @@ title: Publications
 <tr>
 <td><img src="/assets/img/2021_cscw.png" width="250"></td><td markdown="span" style="text-align:justify">**Research on the Structure and Key Algorithms of Smart Gloves Oriented to Middle School Experimental Scene Perception**<br><br>**Hongyue Wang**, Xin Meng, and Zhiquan Feng\*<br>*ChineseCSCW: Computer Supported Cooperative Work and Social Computing* 2021<br><a href="https://link.springer.com/chapter/10.1007/978-981-19-4546-5_32" target="_blank">[website]</a><a href="/assets/pubs/Research on the Structure and Key Algorithms of Smart Gloves Oriented to Middle School Experimental Scene Perception.pdf" target="_blank">[paper]</a></td>
 </tr>
-<tr>
-<td><img src="/assets/img/2021_iysf.png" width="250"></td><td markdown="span" style="text-align:justify">**An experimental scene dynamic perception algorithm for intelligent beaker**<br><br>Zhiquan Feng\*, **Hongyue Wang**, Changsheng Ai, and Haiyan Shao<br>*2nd IYSF Academic Symposium on Artificial Intelligence and Computer Engineering* 2021<br><a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12079/120790A/An-experimental-scene-dynamic-perception-algorithm-for-intelligent-beaker/10.1117/12.2622843.short?SSO=1" target="_blank">[website]</a><a href="/assets/pubs/An experimental scene dynamic perception algorithm for intelligent beaker.pdf" target="_blank">[paper]</a></td>
-</tr>
 </tbody>
 </table>
 
