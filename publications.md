@@ -11,7 +11,7 @@ title: Publications
   
 
 
-<td markdown="span" style="text-align:justify">**Multimodal Intent Understanding and Interaction System for Elderly-Assisted Companionship**<br><br>Ying Wang, Zhiquan Feng\*, and **Hongyue Wang**<br>*CCF Transactions on Pervasive Computing and Interaction* 2023<br><a href="https://link.springer.com/article/10.1007/s42486-023-00137-6" target="_blank">[website]</a></td>
+<div markdown="span" style="text-align:justify">**Multimodal Intent Understanding and Interaction System for Elderly-Assisted Companionship**<br><br>Ying Wang, Zhiquan Feng\*, and **Hongyue Wang**<br>*CCF Transactions on Pervasive Computing and Interaction* 2023<br><a href="https://link.springer.com/article/10.1007/s42486-023-00137-6" target="_blank">[website]</a></div>
 
 
 
