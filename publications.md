@@ -2,6 +2,33 @@
 layout: page
 title: Publications
 ---
+<table>
+<colgroup>
+<col width="10%" />
+<col width="90%" />
+</colgroup>
+<tbody>
+<tr>
+<td>Conference</td>
+<td markdown="span" style="text-align:justify">**Grand challenges in human-food interaction**<br>Florian ‘Floyd’ Mueller, Marianna Obrist, Ferran Altarriba Bertran, Neharika Makam, Soh Kim, Christopher Dawes, Patrizia Marti, Maurizio Mancini, Eleonora Ceccaldi, Nandini Pasumarthy, Sahej Claire, Kyung seo Jung, Jialin Deng, Jürgen Steimle, Nadejda Krasteva, Matti Schwalk, Harald Reiterer, **Hongyue Wang**, Yan Wang<br>*International Journal of Human-Computer Studies* 2024<br><a href="https://www.sciencedirect.com/science/article/pii/S1071581923002069" target="_blank">[website]</a></td>
+</tr>
+
+
+
+<tr>
+<td>Journal</td>
+<td markdown="span" style="text-align:justify">**Grand challenges in human-food interaction**<br>Florian ‘Floyd’ Mueller, Marianna Obrist, Ferran Altarriba Bertran, Neharika Makam, Soh Kim, Christopher Dawes, Patrizia Marti, Maurizio Mancini, Eleonora Ceccaldi, Nandini Pasumarthy, Sahej Claire, Kyung seo Jung, Jialin Deng, Jürgen Steimle, Nadejda Krasteva, Matti Schwalk, Harald Reiterer, **Hongyue Wang**, Yan Wang<br>*International Journal of Human-Computer Studies* 2024<br><a href="https://www.sciencedirect.com/science/article/pii/S1071581923002069" target="_blank">[website]</a></td>
+</tr>
+
+</tbody>
+</table>
+
+
+
+
+
+
+
 
 <p markdown="span" style="text-align:justify">**Grand challenges in human-food interaction**<br><br>Florian ‘Floyd’ Mueller, Marianna Obrist, Ferran Altarriba Bertran, Neharika Makam, Soh Kim, Christopher Dawes, Patrizia Marti, Maurizio Mancini, Eleonora Ceccaldi, Nandini Pasumarthy, Sahej Claire, Kyung seo Jung, Jialin Deng, Jürgen Steimle, Nadejda Krasteva, Matti Schwalk, Harald Reiterer, **Hongyue Wang**, Yan Wang<br>*International Journal of Human-Computer Studies* 2024<br><a href="https://www.sciencedirect.com/science/article/pii/S1071581923002069" target="_blank">[website]</a></p>
 
