@@ -10,7 +10,7 @@ title: Publications
 <tbody>
   
 <tr>
-<td>Conference</td>
+<td>*Conference*</td>
 <td markdown="span" style="text-align:justify"><a href="https://doi.org/10.1145/3613905.3651082" target="_blank">**pic2eat: Facilitating Social Ice-breaking through Collaborative Design of 3D Printed Appetizer**</a><br>**Hongyue Wang**, Jialin Deng, Aravind Mohan, Yinyi Li, Hao Peng, Linjia He, Don Samitha Elvitigala, Florian 'Floyd' Mueller<br>*CHI EA '24: Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems* 2024<br></td>
 </tr>
 
@@ -27,7 +27,7 @@ title: Publications
 
 
 <tr>
-<td>Journal</td>
+<td>*Journal*</td>
 <td markdown="span" style="text-align:justify"><a href="https://www.sciencedirect.com/science/article/pii/S1071581923002069" target="_blank">**Grand challenges in human-food interaction**</a><br>Florian ‘Floyd’ Mueller, Marianna Obrist, Ferran Altarriba Bertran, Neharika Makam, Soh Kim, Christopher Dawes, Patrizia Marti, Maurizio Mancini, Eleonora Ceccaldi, Nandini Pasumarthy, Sahej Claire, Kyung seo Jung, Jialin Deng, Jürgen Steimle, Nadejda Krasteva, Matti Schwalk, Harald Reiterer, **Hongyue Wang**, Yan Wang<br>*International Journal of Human-Computer Studies* 2024<br></td>
 </tr>
 
